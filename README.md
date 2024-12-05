@@ -25,7 +25,7 @@ The objective of this project is to conduct an in-depth analysis of the election
 
 - **Database Creation**:The project starts by creating a database named india_election_result_analysis_db.
 
-- **Table Creation**: A table named constituencywise_details, constituencywise_results, partywise_results, states and statewise_results.
+- **Table Creation**: A table named constituencywise_details, constituencywise_results, partywise_results, states and statewise_results are created to store the data.
 
 create table constituencywise_details(
 
