@@ -104,7 +104,7 @@ trailing_candidate varchar(100),
 
 margin int);
 
-### 3. Data Analysis  and Findings
+### 2. Data Analysis  and Findings
 
 **1. Total seats?**
 
